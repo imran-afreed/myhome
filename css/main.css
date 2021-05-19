@@ -574,7 +574,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
  * ## home content
  * ------------------------------------------------------------------- */
 .home-content {
-    background-image: url('../images/bg.gif');
+    background-image: url('../images/blue.jpg');
     display: table-cell;
     width: 100%;
     height: auto;
